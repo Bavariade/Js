@@ -1,4 +1,4 @@
-// Redirector34 - index.js
+// edirector34 - index.js
 // A simple backend server to redirect short paths to full profile links
 
 const express = require('express');
