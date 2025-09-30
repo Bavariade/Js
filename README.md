@@ -1,5 +1,5 @@
 // edirector34 - index.js
-// A simple backend server to redirect short paths to full profile links
+// A simpl backend server to redirect short paths to full profile links
 
 cons express = require('express');
 const morgan = require('morgan');
